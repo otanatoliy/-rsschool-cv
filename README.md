@@ -1,8 +1,10 @@
 # Marinitch Anatoliy 
 
 ## Contacts 
-mob: +3
-email: ...@gmail.com
+
+📞 +3
+<br>
+📧  ...@gmail.com
 
 ## About Me
 
