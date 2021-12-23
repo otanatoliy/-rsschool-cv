@@ -2,13 +2,26 @@
 
 ## Contacts 
 
-📞 +3
+📞 +380981069071
 <br>
-📧  ...@gmail.com
+📧  anatolilavra@gmail.com
++ GIT-HUB:otanatoliy
 
-## About Me
++  About Me
++  age:41y.0
++  Education:Kiev,music scool
++  bandura
 
-asdasfasdgfasdf
++ Language
++ Russian-Native
++ English A1
 
 ## Skills
++ HTML
++ CSS
++ Markdown
++ Gimp
++ Figma
+
+
 
