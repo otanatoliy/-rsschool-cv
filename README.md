@@ -4,17 +4,17 @@
 
 📞 +380981069071
 <br>
-📧  anatolilavra@gmail.com
-+ GIT-HUB:otanatoliy
+📧  anatolilavra@gmail.com <br>
+:octocat: otanatoliy
 
-+  About Me
+## About Me
 +  age:41y.0
 +  Education:Kiev,music scool
 +  bandura
 
-+ Language
+## Language
 + Russian-Native
-+ English A1
++ English-A1
 
 ## Skills
 + HTML
